@@ -13,7 +13,11 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,git,github,sublime text" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,sublime" />
+
+</div>
 
 <br><br>
 
