@@ -57,7 +57,7 @@ Data Structures and Algorithms.
                       📦 LAB 01 — ARRAYS
                               │
                               ▼
-                         🔤 LAB 02
+                      📦 LAB 02 — Advance ARRAYS
                               │
                               ▼
                          🔎 LAB 03
